@@ -1,6 +1,8 @@
 # Corn Futures Price Prediction
 
-Analysis of machine learning models for predicting U.S. corn futures prices using external market and environmental factors. [Full Paper](https://github.com/ivanfye/corn-futures/blob/main/Analysis%20of%20Corn%20Futures.pdf)
+Analysis of machine learning models for predicting U.S. corn futures prices using external market and environmental factors. 
+
+[Full Paper](https://github.com/ivanfye/corn-futures/blob/main/Analysis%20of%20Corn%20Futures.pdf)
 
 ## Overview
 
